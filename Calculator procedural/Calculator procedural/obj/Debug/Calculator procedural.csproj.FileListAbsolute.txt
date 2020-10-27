@@ -1,0 +1,10 @@
+C:\Users\denis\Desktop\c#\Calculator procedural\Calculator procedural\bin\Debug\Calculator procedural.exe.config
+C:\Users\denis\Desktop\c#\Calculator procedural\Calculator procedural\bin\Debug\Calculator procedural.exe
+C:\Users\denis\Desktop\c#\Calculator procedural\Calculator procedural\bin\Debug\Calculator procedural.pdb
+C:\Users\denis\Desktop\c#\Calculator procedural\Calculator procedural\obj\Debug\Calculator procedural.csprojAssemblyReference.cache
+C:\Users\denis\Desktop\c#\Calculator procedural\Calculator procedural\obj\Debug\Calculator_procedural.Form1.resources
+C:\Users\denis\Desktop\c#\Calculator procedural\Calculator procedural\obj\Debug\Calculator_procedural.Properties.Resources.resources
+C:\Users\denis\Desktop\c#\Calculator procedural\Calculator procedural\obj\Debug\Calculator procedural.csproj.GenerateResource.cache
+C:\Users\denis\Desktop\c#\Calculator procedural\Calculator procedural\obj\Debug\Calculator procedural.csproj.CoreCompileInputs.cache
+C:\Users\denis\Desktop\c#\Calculator procedural\Calculator procedural\obj\Debug\Calculator procedural.exe
+C:\Users\denis\Desktop\c#\Calculator procedural\Calculator procedural\obj\Debug\Calculator procedural.pdb
