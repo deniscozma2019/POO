@@ -1,0 +1,9 @@
+C:\Users\denis\Desktop\ex_04.12.2020\ex_04.12.2020\bin\Debug\ex_04.12.2020.exe.config
+C:\Users\denis\Desktop\ex_04.12.2020\ex_04.12.2020\bin\Debug\ex_04.12.2020.exe
+C:\Users\denis\Desktop\ex_04.12.2020\ex_04.12.2020\bin\Debug\ex_04.12.2020.pdb
+C:\Users\denis\Desktop\ex_04.12.2020\ex_04.12.2020\obj\Debug\ex_04.12.2020.csprojAssemblyReference.cache
+C:\Users\denis\Desktop\ex_04.12.2020\ex_04.12.2020\obj\Debug\ex_04._12._2020.Properties.Resources.resources
+C:\Users\denis\Desktop\ex_04.12.2020\ex_04.12.2020\obj\Debug\ex_04.12.2020.csproj.GenerateResource.cache
+C:\Users\denis\Desktop\ex_04.12.2020\ex_04.12.2020\obj\Debug\ex_04.12.2020.csproj.CoreCompileInputs.cache
+C:\Users\denis\Desktop\ex_04.12.2020\ex_04.12.2020\obj\Debug\ex_04.12.2020.exe
+C:\Users\denis\Desktop\ex_04.12.2020\ex_04.12.2020\obj\Debug\ex_04.12.2020.pdb
