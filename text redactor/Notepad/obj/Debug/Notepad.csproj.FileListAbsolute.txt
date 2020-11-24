@@ -1,0 +1,40 @@
+C:\Users\denis\Desktop\Notepad\Notepad\obj\Debug\Notepad.csprojAssemblyReference.cache
+C:\Users\denis\Desktop\Notepad\Notepad\obj\Debug\Notepad.Notepad.resources
+C:\Users\denis\Desktop\Notepad\Notepad\obj\Debug\Notepad.Properties.Resources.resources
+C:\Users\denis\Desktop\Notepad\Notepad\obj\Debug\Notepad.csproj.GenerateResource.cache
+C:\Users\denis\Desktop\Notepad\Notepad\obj\Debug\Notepad.csproj.CoreCompileInputs.cache
+C:\Users\denis\Desktop\Notepad\Notepad\bin\Debug\Notepad.exe.config
+C:\Users\denis\Desktop\Notepad\Notepad\bin\Debug\Notepad.exe
+C:\Users\denis\Desktop\Notepad\Notepad\bin\Debug\Notepad.pdb
+C:\Users\denis\Desktop\Notepad\Notepad\obj\Debug\Notepad.exe
+C:\Users\denis\Desktop\Notepad\Notepad\obj\Debug\Notepad.pdb
+C:\Users\User\Downloads\POO-main\POO-main\Notepad\Notepad\obj\Debug\Notepad.csprojAssemblyReference.cache
+C:\Users\User\Downloads\POO-main\POO-main\Notepad\Notepad\obj\Debug\Notepad.Notepad.resources
+C:\Users\User\Downloads\POO-main\POO-main\Notepad\Notepad\obj\Debug\Notepad.Properties.Resources.resources
+C:\Users\User\Downloads\POO-main\POO-main\Notepad\Notepad\obj\Debug\Notepad.csproj.GenerateResource.cache
+C:\Users\User\Downloads\POO-main\POO-main\Notepad\Notepad\obj\Debug\Notepad.csproj.CoreCompileInputs.cache
+C:\Users\User\Downloads\POO-main\POO-main\Notepad\Notepad\obj\Debug\Notepad.exe
+C:\Users\User\Downloads\POO-main\POO-main\Notepad\Notepad\obj\Debug\Notepad.pdb
+C:\Users\User\Downloads\POO-main\POO-main\Notepad\Notepad\bin\Debug\Notepad.exe.config
+C:\Users\User\Downloads\POO-main\POO-main\Notepad\Notepad\bin\Debug\Notepad.exe
+C:\Users\User\Downloads\POO-main\POO-main\Notepad\Notepad\bin\Debug\Notepad.pdb
+L:\POO-main\POO-main\Notepad\Notepad\obj\Debug\Notepad.csprojAssemblyReference.cache
+L:\POO-main\POO-main\Notepad\Notepad\obj\Debug\Notepad.Notepad.resources
+L:\POO-main\POO-main\Notepad\Notepad\obj\Debug\Notepad.Properties.Resources.resources
+L:\POO-main\POO-main\Notepad\Notepad\obj\Debug\Notepad.csproj.GenerateResource.cache
+L:\POO-main\POO-main\Notepad\Notepad\obj\Debug\Notepad.csproj.CoreCompileInputs.cache
+L:\POO-main\POO-main\Notepad\Notepad\obj\Debug\Notepad.exe
+L:\POO-main\POO-main\Notepad\Notepad\obj\Debug\Notepad.pdb
+L:\POO-main\POO-main\Notepad\Notepad\bin\Debug\Notepad.exe.config
+L:\POO-main\POO-main\Notepad\Notepad\bin\Debug\Notepad.exe
+L:\POO-main\POO-main\Notepad\Notepad\bin\Debug\Notepad.pdb
+C:\Users\denis\Desktop\POO-main\Notepad 1,1\Notepad\obj\Debug\Notepad.csprojAssemblyReference.cache
+C:\Users\denis\Desktop\POO-main\Notepad 1,1\Notepad\obj\Debug\Notepad.Notepad.resources
+C:\Users\denis\Desktop\POO-main\Notepad 1,1\Notepad\obj\Debug\Notepad.Properties.Resources.resources
+C:\Users\denis\Desktop\POO-main\Notepad 1,1\Notepad\obj\Debug\Notepad.csproj.GenerateResource.cache
+C:\Users\denis\Desktop\POO-main\Notepad 1,1\Notepad\obj\Debug\Notepad.csproj.CoreCompileInputs.cache
+C:\Users\denis\Desktop\POO-main\Notepad 1,1\Notepad\obj\Debug\Notepad.exe
+C:\Users\denis\Desktop\POO-main\Notepad 1,1\Notepad\obj\Debug\Notepad.pdb
+C:\Users\denis\Desktop\POO-main\Notepad 1,1\Notepad\bin\Debug\Notepad.exe.config
+C:\Users\denis\Desktop\POO-main\Notepad 1,1\Notepad\bin\Debug\Notepad.exe
+C:\Users\denis\Desktop\POO-main\Notepad 1,1\Notepad\bin\Debug\Notepad.pdb
